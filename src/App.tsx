@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>hello world</h1>
+        <h1>goblin man(ager)</h1>
         <Grid columns={2} style={{marginTop: 15}}>
           <Grid.Row>
             <Grid.Column>
